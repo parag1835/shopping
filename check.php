@@ -1,1 +1,3 @@
-check
+<?php 
+echo "parag";
+?>
